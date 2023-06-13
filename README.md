@@ -17,9 +17,12 @@
 <!-- Your Education -->
 <h3 align="center">🎓 Education 🎓</h3>
 <p align="center">
-  - Bachelor's in Computer Science<br>
-  - Master's in Software Engineering<br>
-  - Certifications in Web Development and Data Science
+  - Bachelor's of Technology (2021-2025)
+    MNNIT Allahabad, Prayagraj<br>
+  - Matricaulation 94.4%
+    CBSE board<br>
+  - Intermediate 95.6%
+    CBSE board
 </p>
 
 <!-- Your Skills -->
