@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-tiwari-mnnit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:abhiitiwarii0@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
-  <a href="[Dev-Demigod](https://leetcode.com/Dev_Demigod/)"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
-  <a href="[Abhinav Tiwari](https://auth.geeksforgeeks.org/user/abhiitiwarii0/)"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://leetcode.com/Dev_Demigod/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhiitiwarii0/"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <!-- Your Education -->
@@ -39,9 +39,8 @@
 <!-- Your Other Projects -->
 <h3 align="center">🚀 Other Projects 🚀</h3>
 <p align="center">
-  <a href="https://github.com/yourusername/project1"><img src="https://img.shields.io/badge/-Project%201-181717?style=flat&logo=github"></a>
-  <a href="https://github.com/yourusername/project2"><img src="https://img.shields.io/badge/-Project%202-181717?style=flat&logo=github"></a>
-  <a href="https://github.com/yourusername/project3"><img src="https://img.shields.io/badge/-Project%203-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/Abhinav-21/Healthcare-Record-Management"><img src="https://img.shields.io/badge/-Project%201-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/Abhinav-21/Machine-Learning-Models"><img src="https://img.shields.io/badge/-Project%202-181717?style=flat&logo=github"></a>
 </p>
 
 <!-- Your GitHub Stats -->
