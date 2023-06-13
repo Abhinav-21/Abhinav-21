@@ -8,10 +8,10 @@
 
 <!-- Your Social Media and Contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/user/yourusername"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhinav-tiwari-mnnit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:abhiitiwarii0@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
+  <a href="[Dev-Demigod](https://leetcode.com/Dev_Demigod/)"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
+  <a href="[Abhinav Tiwari](https://auth.geeksforgeeks.org/user/abhiitiwarii0/)"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <!-- Your Education -->
