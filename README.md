@@ -19,9 +19,9 @@
 <p align="center">
   - Bachelor's of Technology (2021-2025)<br>
     MNNIT Allahabad, Prayagraj<br>
-  - Matricaulation 94.4%<br>
+  - <br>Matricaulation 94.4%<br>
     CBSE board<br>
-  - Intermediate 95.6%<br>
+  - <br>Intermediate 95.6%<br>
     CBSE board
 </p>
 
