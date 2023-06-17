@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<br><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat">
+<br><img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat">
 <img src="https://img.shields.io/badge/-Data%20Analysis-3366BB?style=flat">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
