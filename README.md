@@ -35,9 +35,9 @@
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-<br><img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat">
+<img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat">
 <img src="https://img.shields.io/badge/-Data%20Analysis-3366BB?style=flat">
- <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+ <br><img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/-Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white">
