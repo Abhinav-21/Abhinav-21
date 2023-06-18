@@ -63,7 +63,9 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-21&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
 </p>
-[![Profile Views](https://profile-counter.glitch.me/your_username/count.svg)](https://github.com/Abhinav-21)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-21&color=blue&style=flat-square&label=Profile+Views">
+</p>
 
 
 <!-- Your Top Languages -->
