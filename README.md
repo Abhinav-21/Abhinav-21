@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://github.com/Abhinav-21/Healthcare-Record-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Healthcare-Record-Management&theme=dark">
-  </a><br />
+  </a>
   <a href="https://github.com/Abhinav-21/Machine-Learning-Models">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Machine-Learning-Models&theme=dark">
   </a>
