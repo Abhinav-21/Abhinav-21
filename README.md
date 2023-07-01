@@ -62,6 +62,9 @@
   <a href="https://github.com/Abhinav-21/Machine-Learning-Models">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Machine-Learning-Models&theme=dark">
   </a>
+  <a href="https://github.com/Abhinav-21/Reinforced-Learning-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Reinforced-Learning-AI&theme=dark">
+  </a>
 </p>
 
 <!-- Your GitHub Stats -->
