@@ -37,8 +37,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat">
   <img src="https://img.shields.io/badge/-Data%20Analysis-3366BB?style=flat">
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-FF6F00?style=flat&logo=python&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white">
@@ -48,8 +47,9 @@
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Stable%20Baselines3-2874A6?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-FF9900?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-FF6F00?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 </p>
 
 <!-- Your Project Showcase -->
