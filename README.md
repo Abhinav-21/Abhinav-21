@@ -6,6 +6,11 @@
   Hi there! 👋 I'm a passionate developer who loves coding and creating amazing things. Welcome to my GitHub profile!
 </p>
 
+<p align="center">
+  <a href='https://resume-abhinav.vercel.app/'>My Portfolio</a>
+</p>
+
+
 <!-- Your Social Media and Contact -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-tiwari-mnnit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
